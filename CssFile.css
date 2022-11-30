@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 2, 2021, 4:18:39 PM
+    Author     : CHAD
+*/
+  <style type="text/css">
+
+        h1,h4
+        {
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         font-size: 200%;
+         font-weight:  bold;
+         color: rgb(2, 30, 88);
+        }
+        h2,h3
+        {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bold;
+            color:rgb(2, 30, 88);
+        }
+        b
+        {
+           font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+           font-size: 88%;
+           font-weight: bolder;
+           color: rgb(4, 31, 89); 
+        }
+        
+        body 
+        {
+            background-color: #cfcfc6;
+            text-shadow: 50px;
+            color:rgb(2, 30, 88);
+            padding: 10px;
+            font-family: "Courier New", Courier, monospace;
+            padding-left: 25%; 
+            padding-right: 25%;
+            padding-bottom: 25%;
+        }
+        ul{
+            font-size: 88%;
+        }
+       
+
+        </style>
+
